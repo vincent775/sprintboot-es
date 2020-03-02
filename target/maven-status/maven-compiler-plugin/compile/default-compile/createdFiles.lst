@@ -1,0 +1,17 @@
+com\instrument\essearch\repository\ProductDocumentRepository.class
+com\instrument\essearch\model\ProductDocumentBuilder.class
+com\instrument\essearch\service\EsSearchService.class
+com\instrument\essearch\model\KeyVlaue.class
+com\instrument\essearch\model\ProductDocument.class
+com\instrument\essearch\page\SimplePage.class
+com\instrument\essearch\EssearchApplication.class
+com\instrument\essearch\model\AppResult.class
+com\instrument\essearch\page\Paginable.class
+com\instrument\essearch\service\impl\BaseSearchServiceImpl.class
+com\instrument\essearch\service\impl\EsSearchServiceImpl.class
+com\instrument\essearch\page\Page.class
+com\instrument\essearch\controller\EsSearchController.class
+com\instrument\essearch\model\ResultJsonContent.class
+com\instrument\essearch\service\BaseSearchService.class
+com\instrument\essearch\model\JsonHeader.class
+com\instrument\essearch\model\SearchResult.class
